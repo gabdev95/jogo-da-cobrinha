@@ -1,0 +1,12 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #98FB98;
+}
+
+.image-logo{
+    padding-right: 150px;
+}
